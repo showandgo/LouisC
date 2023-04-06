@@ -1,0 +1,19 @@
+---
+title: " "
+about: 
+    template: broadside
+---
+
+## Education
+
+**University of Hawaii (Manoa)** \| USA (2022- Present)
+
+**Cornell University** \| USA (2018-2020)
+
+**University of Edinburgh** \| UK(2008-2012)
+
+## Experience
+
+## Email
+
+louiscbc\@hawaii.edu
