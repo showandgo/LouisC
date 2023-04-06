@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Louis Chua"
@@ -13,13 +14,12 @@ website:
     foreground: dark
     search: false
     logo: /logo.png
-    right:
+    left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: CV
-        
-    
+
 format:
   html:
     theme: sandstone
