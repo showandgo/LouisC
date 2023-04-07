@@ -3,7 +3,7 @@
     "path": "~/R_projs/cv_website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3837278935",
+    "hash": "1270810808",
     "contents": "",
     "dirty": false,
     "created": 1680738519652.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "434:295.5",
+        "rmdVisualModeLocation": "497:295.5",
         "cursorPosition": "13,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1680827354,
+    "lastKnownWriteTime": 1680827601,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1680827354538,
+    "last_content_update": 1680827601738,
     "read_only": false,
     "read_only_alternatives": []
 }
