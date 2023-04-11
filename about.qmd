@@ -1,6 +1,6 @@
 ---
 title: " "
-image: prof_relexed.jpg
+image: profile.JPG
 about: 
     template: trestles
     image-shape: round
@@ -20,6 +20,6 @@ I do a whole host of things besides research. These days its writing 📚, cooki
 
 ### 
 
-## ✉️  Email
+## ✉️ Email
 
 `louiscbc@hawaii.edu`

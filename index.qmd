@@ -2,21 +2,25 @@
 sidebar: false
 ---
 
-### 🌱 Ecological Economist \|  🤓 Data & Mapping Nerd
+### 🌱 Ecological Economist \| 🤓 Data & Mapping Nerd
 
 ### 
 
 Hawai'i Sea Grant Fellow \| PI-CASC Graduate Scholar
 
-PhD Candidate in the Department of Natural Resources and Environmental Management (NREM) at University of Hawai'i (Manoa). Working on Natural Capital Accounting (NCA) and ecosystem valuation projects in the State of Hawai'i.
+PhD Candidate in the Department of Natural Resources and Environmental Management (NREM) at University of Hawai'i (Manoa). Working on Natural Capital Accounting (NCA) and ecosystem valuation projects across the Main Hawaiian Islands.
 
 Principal Investigator: Dr Kirsten Oleson.
 
-# 
+### 
+
+### 💬 Talk to me about
+
+Discount Rates, Ecosystem Services, Cultural Ecosystem Services, Inter-temporal Choice
 
 ### 
 
-### ✉️  **Get In Touch**
+### ✉️ **Get In Touch**
 
 Email: `louiscbc@hawaii.edu`
 
