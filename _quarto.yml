@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Louis Chua"
+  favicon: /logo.png
   navbar:
     tools:
       - icon: twitter
