@@ -7,6 +7,8 @@ website:
   favicon: /logo.png
   navbar:
     tools:
+      - icon: github
+        href: https://github.com/showandgo
       - icon: twitter
         href: https://twitter.com/sirensorts
       - icon: vector-pen
@@ -22,10 +24,14 @@ website:
         text: About
       - href: research.qmd
         text: Research
+  page-footer: 
+    center: "Copyright 2023, Louis Chua"
 
 format:
   html:
     theme: sandstone
+    #theme: 
+      # - mystyles.scss
     css: styles.css
     toc: true
 
