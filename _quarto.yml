@@ -32,6 +32,7 @@ format:
     theme: sandstone
     #theme: 
       # - mystyles.scss
+    #mainfont: 
     css: styles.css
     toc: true
 
