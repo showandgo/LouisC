@@ -1,7 +1,13 @@
 /*-- scss:defaults --*/
 
-// Fonts, from google fonts
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Nunito+Sans:wght@200&family=Roboto+Mono:wght@300&family=Sanchez&display=swap');
+
+// Fonts
+$font-family-serif: 'Sanchez', serif; 
+$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-family-monospace: 'Roboto Mono', monospace;
+
 
 // Colors
 $light-sage-green: #D1D9CE;

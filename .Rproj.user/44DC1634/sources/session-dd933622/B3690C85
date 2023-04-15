@@ -3,7 +3,7 @@
     "path": "~/R_projs/cv_website/mystyles.scss",
     "project_path": "mystyles.scss",
     "type": "scss",
-    "hash": "1934240183",
+    "hash": "1345533940",
     "contents": "",
     "dirty": false,
     "created": 1681520227525.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,23",
+        "cursorPosition": "10,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1681521079,
+    "lastKnownWriteTime": 1681521416,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1681521079662,
+    "last_content_update": 1681521416230,
     "read_only": false,
     "read_only_alternatives": []
 }

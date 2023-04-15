@@ -31,8 +31,8 @@ format:
   html:
     theme: sandstone
     #theme: 
-      # - mystyles.scss
-    #mainfont: 
+     # - mystyles.scss
+    #mainfont: Nunito
     css: styles.css
     toc: true
 
