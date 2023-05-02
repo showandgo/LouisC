@@ -32,7 +32,7 @@
     "href": "about.html#email",
     "title": "Louis Chua",
     "section": "✉️ Email",
-    "text": "✉️ Email\nlouiscbc@hawaii.edu"
+    "text": "✉️ Email\nlouiscbc-at-hawaii.edu"
   },
   {
     "objectID": "index.html#section",
@@ -54,5 +54,12 @@
     "title": "Louis Chua",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nApplying UN SEEA EA accounting frameworks↩︎"
+  },
+  {
+    "objectID": "about.html#programming",
+    "href": "about.html#programming",
+    "title": "Louis Chua",
+    "section": "💻 Programming",
+    "text": "💻 Programming\nR, Python, SQL, ArcGIS, QGIS"
   }
 ]
