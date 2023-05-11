@@ -12,4 +12,6 @@ Hawaiian coastal waters are uniquely impacted by climate change, land use, and r
 
 An ecosystem account begins with synthesising information about the extent, condition, and use of the natural environment of the landscape and seascape, focusing on locally relevant biophysical metrics of natural capital assets and ecosystem service flows. The process is designed to provide an evidence base for understanding and mapping natural capital, evaluating its status and trends, and exploring its relationship with priority economic sectors and livelihoods.
 
+![Beta App showing Hawai'ian Ecosystem Extents. [Link to App](https://louiscbc.shinyapps.io/eco_extent/)](app_grab.png){fig-align="center"}
+
 Building the accounts involves compiling time series data for land and coastal habitats. We rely on remotely sensed products for terrestrial layers, and a state-wide data collaborative for marine benthic layers. Second, we synthesize existing data for relevant conditions such as fish stocks, coral cover, and water quality. Third, we quantify use with a focus on fisheries, recreation, tourism, and shoreline protection, using a combination of ecosystem service models, surveys, and secondary data. When feasible and appropriate, we are valuing and monetizing these ecosystem services using both standard non-market valuation techniques.
