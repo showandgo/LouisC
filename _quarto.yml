@@ -23,7 +23,7 @@ website:
       - href: about.qmd
         text: About
       - href: research.qmd
-        text: Oleson Lab (NCA)
+        text: Research
       - href: prj.qmd
         text: News
   page-footer: 
