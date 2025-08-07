@@ -1,6 +1,6 @@
 ---
 title: " "
-image: labpic.jpeg
+image: kakoo_laulima.jpg
 about: marquee
 ---
 
