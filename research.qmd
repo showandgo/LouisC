@@ -1,10 +1,13 @@
 ---
-title: " "
+title: ""
 image: kakoo_laulima.jpg
 about: marquee
 ---
+<p style="font-size: 0.8em; text-align: right;"><em>Heʻeia (PC: Aimee Sato)</em></p>
 
-International frameworks such as the UN System of Environmental-Economic Accounting (Ecosystem Accounts) (SEEA EA) and IUCN GET 2.0 set out a roadmap for globally consistent and comparable ecosystem accounting standards which offer a reliable way to assess changes in ecosystem \"health\". Set against these international standards, there is currently uneven compliance and buy-in across the world, while research and large data gaps remain. My research advocates for Hawaiʻi to begin taking seriously natural capital accounting and ecosystem accounting.
+
+
+International frameworks such as the UN System of Environmental-Economic Accounting (Ecosystem Accounts) (SEEA EA) and IUCN GET 2.0 set out a roadmap for globally consistent and comparable ecosystem accounting standards which offer a reliable way to assess changes in ecosystem "health". Set against these international standards, there is currently uneven compliance and buy-in across the world, while research and large data gaps remain. My research advocates for Hawaiʻi to begin taking seriously natural capital accounting and ecosystem accounting.
 
 The precipitous decline of native ecosystems in Hawaiʻi generates a strong need for conservation, however funding for such work have not kept pace with this need. Ecosystem accounts for Hawaiʻi if done well, can catalyze awareness, change, and redirect needed financial resources to address conservation priorities and needs.
 
