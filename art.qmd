@@ -1,6 +1,6 @@
 ---
 title: ""
-about: marquee
+format: html
 ---
 
 Want to help a struggling scientist in Hawaiʻi?
