@@ -26,6 +26,8 @@ website:
         text: Research
       - href: prj.qmd
         text: News
+      - href: art.qmd
+        text: Artwork
   page-footer: 
     center: "Copyright 2023, Louis Chua"
 
