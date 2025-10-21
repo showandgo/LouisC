@@ -28,6 +28,8 @@ website:
         text: News
       - href: art.qmd
         text: Artwork
+      - href: part.qmd
+        text: PAR Tools
   page-footer: 
     center: "Copyright 2023, Louis Chua"
 

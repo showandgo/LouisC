@@ -1,0 +1,8 @@
+---
+title: "Participatory Action Research (PAR) tools"
+format: html
+---
+
+``` html
+<iframe src="maps/heeia_map.html" width="100%" height="600px" style="border:none;"></iframe>
+```

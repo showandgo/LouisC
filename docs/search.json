@@ -47,5 +47,19 @@
     "title": "Louis Chua",
     "section": "",
     "text": "Want to help a struggling scientist in Hawaiʻi?\nSupport my work by donating here, drop me an email and I will send you postcards and stickers of my original artwork!"
+  },
+  {
+    "objectID": "part.html",
+    "href": "part.html",
+    "title": "Participatory Action Research (PAR) tools",
+    "section": "",
+    "text": "&lt;iframe src=\"maps/heeia_map.html\" width=\"100%\" height=\"600px\" style=\"border:none;\"&gt;&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "part.html#heʻeia-map",
+    "href": "part.html#heʻeia-map",
+    "title": "Participatory Action Research (PAR) tools",
+    "section": "",
+    "text": "# Load the library.\nlibrary(leaflet)\n\n# Make a map\nleaflet() %&gt;%\n  addTiles() %&gt;% # Add default OpenStreetMap map tiles\n  addMarkers(lng = 174.768, lat = -36.852, popup = \"The birthplace of R\")"
   }
 ]
